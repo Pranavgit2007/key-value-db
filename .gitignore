@@ -1,0 +1,8 @@
+# Ignore compiled executables
+server
+client
+*.exe
+*.o
+
+# Ignore database save files
+*.kv
